@@ -1,0 +1,12 @@
+Background and Prior Work
+
+Hypothesis
+We predict that liberal news outlet's phrasing portrayed democratic candidates more favorably and republican candidates more negatively. 
+Conversely, we predict conservative news outlets would have portrayed democratic candidtates more negatively and republican candidates more positively.
+Ethics & Privacy
+
+Data
+Our ideal data set would contain variables for: words used, the candidtate the words are referencing, the valance (positive or negative) of the descriptive words used, the news organization describing the candidate, and the date words were used to describe the candidate.
+The variables would all be stored as columns in the same table with each observation being a specific instance of a one or two word description of one of the two 2016 presidential general election candidates. 
+Ideally, our dataset would have as many observations as possible or no less than 500 description instances.
+Team Expectations

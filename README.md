@@ -1,0 +1,3 @@
+Contributors: Manit Soni, Young Jun Kim, Esau Estrada, Cooper Beaman, Arren De Manuel
+
+Our project explores how different sources of news media portrayed the candidates of the 2016 presidential election; namely Hillary Clinton and Donald Trump. We look at articles from three news outlets: CNN (moderate leaning), New York Times (left leaning), and Breitbart (right leaning). Using web scraping to gather our data followed by sentiment analysis to quantify candidate portrayals, we present a preliminary analysis of potential trends in sentiment between outlets and candidates.
